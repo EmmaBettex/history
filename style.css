@@ -9,16 +9,17 @@ color: inherit;
 }
 
 h1 {
-    font-size: 12vw;
-    color: rgb(138, 157, 174);
-    text-shadow: 0 0 0.5em ;
+    font-size: 4vw;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 0.em ;
 }
 
 /* mise en page */
 body {
-    min-height: 100vh;
+    min-height: 110vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
