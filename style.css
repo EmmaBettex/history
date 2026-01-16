@@ -12,7 +12,11 @@ color: inherit;
 h1 {
     font-size: 4vw;
     color: rgb(255, 255, 255);
-    text-shadow: 0 0 0.em ;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
 
 /* mise en page */
